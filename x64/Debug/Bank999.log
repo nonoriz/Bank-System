@@ -1,0 +1,81 @@
+﻿  BankSystem.cpp
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(90,46): warning C4677: 'FindAccount': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'BankSystem.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(101,37): warning C4677: 'DisplayAccounts': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'BankSystem.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+  MyForm.cpp
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(90,46): warning C4677: 'FindAccount': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'MyForm.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(101,37): warning C4677: 'DisplayAccounts': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'MyForm.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+D:\Users\Microsoft\source\repos\Bank999\Bank999\MyForm.cpp(15,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(90,46): warning C4677: 'FindAccount': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'MyForm1.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(101,37): warning C4677: 'DisplayAccounts': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'MyForm1.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+  MyForm2.cpp
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(90,46): warning C4677: 'FindAccount': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'MyForm2.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(101,37): warning C4677: 'DisplayAccounts': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'MyForm2.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+  MyForm3.cpp
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(90,46): warning C4677: 'FindAccount': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'MyForm3.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(101,37): warning C4677: 'DisplayAccounts': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'MyForm3.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+  MyForm4.cpp
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(90,46): warning C4677: 'FindAccount': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'MyForm4.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(101,37): warning C4677: 'DisplayAccounts': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'MyForm4.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+  MyForm5.cpp
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(90,46): warning C4677: 'FindAccount': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'MyForm5.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(101,37): warning C4677: 'DisplayAccounts': signature of non-private member contains assembly private type 'Bank::BankAccountNode'
+  (compiling source file 'MyForm5.cpp')
+  D:\Users\Microsoft\source\repos\Bank999\Bank999\BankSystem.h(18,13):
+  see declaration of 'Bank::BankAccountNode'
+  
+  Generating Code...
+  BankSystem.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Bank999.vcxproj -> D:\Users\Microsoft\source\repos\Bank999\x64\Debug\Bank999.exe
